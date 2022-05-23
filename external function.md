@@ -1,6 +1,6 @@
 #  <arpa/inet.h>
 
-h = host(little endian)<br />
+h = host(99% little endian)<br />
 n = network(big endian)<br />
 l = long(32byte)<br />
 s = short(16byte)<br />
